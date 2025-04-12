@@ -1,0 +1,69 @@
+.red-text{
+    color: red;
+    font-style: italic;
+}
+.text-orange{
+    color: orange;
+}
+
+.blue-text {
+    color: #0EBFC3;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.width-img-80{
+    width: 80%;
+}
+
+.width-img-60{
+    width: 60%;
+}
+
+/* Content header */
+#content-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    margin-bottom: 10px;
+}
+
+#content-header img{
+    width: 60%;
+}
+
+.search-width{
+    width: 30%;
+}
+
+.text-header{
+    margin-left: 10%;
+}
+
+/* Navbar */
+#navbar-menu{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+/* airblade */
+#airblade img {
+    margin-bottom: 10px;
+}
+
+/* best-seller */
+#best-seller{
+    display: flex;
+    justify-content: center;
+}
+
+#best-seller img{
+    width: 100%;
+    height: 80%;
+}
+
+
+
